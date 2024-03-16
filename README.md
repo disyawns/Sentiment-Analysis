@@ -1,5 +1,3 @@
-# Sentiment-Analysis
-
 # Flask Sentiment Analysis Web App
 
 This is a Flask web application for sentiment analysis, where users can input text and get predictions about the sentiment of the input text. The application is hosted on AWS Elastic Beanstalk.
